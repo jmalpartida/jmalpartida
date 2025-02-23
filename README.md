@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer program
 - 🌱 I’m currently learning oracle ATP, Apex
 - 💞️ I’m looking to collaborate on development systems
-- 📫 How to reach me at jmalpartida@systemredpc.com
+- 📫 How to reach me at jmalpartida@systemredpc.net
 
 <!---
 jmalpartida/jmalpartida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
